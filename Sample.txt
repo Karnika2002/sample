@@ -6,3 +6,6 @@ Java
 Sql
 Hibernate
 Spring
+
+J2EE
+JavaScript
